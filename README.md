@@ -70,6 +70,7 @@ A Chrome Extension (Manifest V3) that helps you learn by providing AI-powered su
 
 ### Using First Skim
 - Click "First Skim" to get a page summary and highlighted key terms
+- Summary adapt to the experience level of the user
 - View extracted keywords with explanations
 - Save important terms to your vocabulary
 
@@ -87,6 +88,12 @@ A Chrome Extension (Manifest V3) that helps you learn by providing AI-powered su
 - Select text → Right-click → "Explain with Hatrick"
 - Explanations adapt to your experience level (Beginner/Intermediate/Professional)
 - Click the heart icon to save terms to your vocabulary
+
+### Saving Notes
+- Select text → Right-click → "Save to Note"
+- Add your own reflections or comments for the selected passage
+- Notes are saved by field and include the date saved
+- Access saved notes through the Hats Collection
 
 ### Ask Hatrick
 - Use the chat interface to ask questions about webpage content
