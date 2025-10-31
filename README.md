@@ -12,6 +12,7 @@ A Chrome Extension (Manifest V3) that helps you learn by providing AI-powered su
 - **Vocab Pocket**: Save and manage your learning vocabulary with explanations
 - **Ask Hatrick**: Interactive AI assistant for questions about webpage content
 
+
 ### AI-Powered Capabilities
 - **Smart Term Explanation**: Context-aware explanations adapted to your experience level
 - **Page Summarization**: Intelligent summaries using Chrome's built-in Summarizer API
