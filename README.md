@@ -60,7 +60,7 @@ A Chrome Extension (Manifest V3) that helps you learn by providing AI-powered su
    - Click the Hatrick icon in your browser toolbar
    - The side panel should open with the welcome screen
 
-## 📖 Usage Guide xxx
+## 📖 Usage Guide
 
 ### Getting Started
 1. Navigate to any webpage with text content
