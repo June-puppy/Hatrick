@@ -79,20 +79,23 @@ A Chrome Extension (Manifest V3) that helps you learn by providing AI-powered su
 - Helps you understand content structure and flow
 
 ### Using Vocab Pocket
-- View all saved terms organized by field
+- View all saved terms from the article
 - Click any term to see its explanation
 - Remove terms you no longer need
 
 ### Explaining Terms
-1. **Method 1**: Select text → Right-click → "Explain with Hatrick"
-2. **Method 2**: Use the inline explanation dialog when available
-3. Explanations adapt to your experience level (Beginner/Intermediate/Professional)
-4. Click the heart icon to save terms to your vocabulary
+- Select text → Right-click → "Explain with Hatrick"
+- Explanations adapt to your experience level (Beginner/Intermediate/Professional)
+- Click the heart icon to save terms to your vocabulary
 
 ### Ask Hatrick
 - Use the chat interface to ask questions about webpage content
 - Get contextual answers based on the current page
 - Ideal for clarifying concepts or exploring topics deeper
+
+### Hats Collection
+- Review the learning progress of each field
+- View all saved terms and notes organized by field
 
 ## 📁 File Structure
 
